@@ -19,7 +19,7 @@ The goal of this project is to analyze Disney Plus Shows data using Excel and Po
  ### Data Modeling & DAX Measures
 	* Average imdb rating =AVERAGE(disney plus shows11[imdb_rating])
 	*	Top Rating Movie = MAX(disney_plus_shows11[imdb_rating])
-	*	Target Rating=7.40
+	*	Target Rating=9
 ### 5. Key Insights
   	a. Animation and Adventure movies are the most popular in this data.
 	b. Movie ratings generally reached a high point around 1992.
