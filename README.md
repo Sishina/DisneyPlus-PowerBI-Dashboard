@@ -22,9 +22,8 @@ The goal of this project is to analyze Disney Plus Shows data using Excel and Po
 	*	Target Rating=9
 ### 5. Key Insights
   	a. Animation and Adventure movies are the most popular in this data.
-	b. Movie ratings generally reached a high point around 1992.
-	c. Aladdin is one of the most popular films people like.
-	d. Between 1999 and 2020, there is a big increase in movie ratings.
+	b. Movie ratings generally reached a high point around 1992(Aladdin's Rating is 8.0).
+	c. Aladdin is one of the most popular films people like(356,283).
 ### 6. Screenshots
 <img width="1212" height="768" alt="Screenshot 2026-04-02 222917" src="https://github.com/user-attachments/assets/9977b037-60aa-4c39-9d10-691d0feb2bc6" />
 <img width="1138" height="638" alt="Screenshot 2026-04-02 223016" src="https://github.com/user-attachments/assets/c64a1131-c86b-4aff-86a2-ece24bc425b2" />
