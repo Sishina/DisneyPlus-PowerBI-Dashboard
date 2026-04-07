@@ -23,14 +23,15 @@ The goal of this project is to analyze Disney Plus Shows data using Excel and Po
 ### 5. Key Insights
   	a. Animation and Adventure movies are the most popular in this data.
 	b. Movie ratings generally reached a high point around 1992(Aladdin's Rating is 8.0).
+	c. Aladdin is one of the most popular films people like(imdb-votes-356283).
 ### 6. Screenshots
 <img width="1212" height="768" alt="Screenshot 2026-04-02 222917" src="https://github.com/user-attachments/assets/9977b037-60aa-4c39-9d10-691d0feb2bc6" />
 <img width="1138" height="638" alt="Screenshot 2026-04-02 223016" src="https://github.com/user-attachments/assets/c64a1131-c86b-4aff-86a2-ece24bc425b2" />
 
 ### 7. Files included
   	* Cleaned Data of Disney plus shows.xlsx - Cleaned dataset of Disney Plus movies.
- 	 * Dashboard of Disney plus Shows.pbix - Power BI dashboard file with all visualizations.
-	  * README.md - Project Description
+ 	* Dashboard of Disney plus Shows.pbix - Power BI dashboard file with all visualizations.
+	* README.md - Project Description
  
 ### 8. How to use
 	*	Open ‘Disney plus shows’ data.xlsx to see how the movie data was cleaned and organized.
