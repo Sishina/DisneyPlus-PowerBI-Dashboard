@@ -26,7 +26,8 @@ The goal of this project is to analyze Disney Plus Shows data using Excel and Po
 	c. Aladdin is one of the most popular films people like(imdb-votes-356283).
 ### 6. Screenshots
 <img width="1138" height="638" alt="Screenshot 2026-04-02 223016" src="https://github.com/user-attachments/assets/851bff77-b0f9-4e7a-a260-45f693ffe0b1" />
-<img width="1409" height="762" alt="Screenshot 2026-04-07 212811" src="https://github.com/user-attachments/assets/5300f8ad-29bf-4244-a77e-1bd6d9cccb4a" />
+<img width="1405" height="773" alt="Screenshot 2026-04-07 213946" src="https://github.com/user-attachments/assets/fbb9bb4d-cfe2-4e13-8150-9a99e419ed58" />
+
 
 ### 7. Files included
   	* Cleaned Data of Disney plus shows.xlsx - Cleaned dataset of Disney Plus movies.
