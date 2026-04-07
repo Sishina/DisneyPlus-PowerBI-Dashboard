@@ -25,8 +25,8 @@ The goal of this project is to analyze Disney Plus Shows data using Excel and Po
 	b. Movie ratings generally reached a high point around 1992(Aladdin's Rating is 8.0).
 	c. Aladdin is one of the most popular films people like(imdb-votes-356283).
 ### 6. Screenshots
-<img width="1212" height="768" alt="Screenshot 2026-04-02 222917" src="https://github.com/user-attachments/assets/9977b037-60aa-4c39-9d10-691d0feb2bc6" />
-<img width="1138" height="638" alt="Screenshot 2026-04-02 223016" src="https://github.com/user-attachments/assets/c64a1131-c86b-4aff-86a2-ece24bc425b2" />
+<img width="1138" height="638" alt="Screenshot 2026-04-02 223016" src="https://github.com/user-attachments/assets/851bff77-b0f9-4e7a-a260-45f693ffe0b1" />
+<img width="1409" height="762" alt="Screenshot 2026-04-07 212811" src="https://github.com/user-attachments/assets/5300f8ad-29bf-4244-a77e-1bd6d9cccb4a" />
 
 ### 7. Files included
   	* Cleaned Data of Disney plus shows.xlsx - Cleaned dataset of Disney Plus movies.
